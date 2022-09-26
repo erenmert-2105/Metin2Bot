@@ -4,4 +4,4 @@ you need JitBit Macro Recorder
 
 open Metin2 file and pip install libraries 
 
-settings are set at start
+settings are set at start of Metin2 file
